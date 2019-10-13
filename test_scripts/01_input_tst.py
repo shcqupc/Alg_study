@@ -2,7 +2,7 @@
 import os
 import json
 
-d1 = 'Resources/inputtest3.json'
+d1 = 'Resources/inputtest1.json'
 d2 = 'Resources/inputtest2.txt'
 d3 = 'Resources/outputtest1.json'
 d4 = 'Resources/outputtest2.txt'

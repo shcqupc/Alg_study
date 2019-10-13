@@ -38,6 +38,7 @@ res = pd.concat([df3, df4, df5], axis=0, ignore_index=True)
 print(res)
 
 print('\n--------------------matplotlib.pyplot------------------------')
+print('\n--------------------matplotlib.pyplot------------------------')
 data = pd.Series(np.random.randn(100), index=np.arange(100))
 print(data)
 data = data.cumsum()

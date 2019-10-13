@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="024c294d-254d-496b-909e-76a8d4d85be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_scripts/05_machine_learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/04_visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/04_visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/01_input_tst.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/01_input_tst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/02_pandas_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/02_pandas_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/03_pandas_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/03_pandas_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/test1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hankPylib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -51,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05_machine_learning">
-    <configuration name="02_numpy_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.06_function1">
+    <configuration name="01_input_tst" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/02_numpy_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/01_input_tst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_pandas_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06_function1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/03_pandas_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/06_function1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_visualization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06_function_limitation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/04_visualization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/06_function_limitation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_machine_learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/05_machine_learning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_machine_learning" />
-        <item itemvalue="Python.04_visualization" />
+        <item itemvalue="Python.06_function1" />
+        <item itemvalue="Python.06_function_limitation" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.02_pandas_study" />
-        <item itemvalue="Python.02_numpy_study" />
-        <item itemvalue="Python.03_pandas_study" />
+        <item itemvalue="Python.01_input_tst" />
       </list>
     </recent_temporary>
   </component>

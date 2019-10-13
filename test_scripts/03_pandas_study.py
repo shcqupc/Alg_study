@@ -12,7 +12,7 @@ df = pd.DataFrame(np.random.randn(6, 4), index=dates, columns=['C1', 'C2', 'C3',
 print(df)
 # print('df.dtypes', df.dtypes)
 # print('df.index', df.index)
-print('\n---------------select by colun---------------')
+print('\n---------------select by column---------------')
 # print(df['C1'])
 # print(df.C1)
 print('\n---------------select by row level---------------')
