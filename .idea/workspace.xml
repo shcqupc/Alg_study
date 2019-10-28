@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="024c294d-254d-496b-909e-76a8d4d85be1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_scripts/AI_20191027_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_scripts/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/01_input_tst.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/01_input_tst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/02_pandas_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/02_pandas_study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/03_pandas_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/03_pandas_study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_scripts/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/06_function1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/06_function1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_scripts/07_function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_scripts/07_function2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_study" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -52,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_function1">
-    <configuration name="01_input_tst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Fizz_Buzz_Suhai_1">
+    <configuration name="Fizz_Buzz_Suhai_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AIE23/1_Fizz_Buzz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/01_input_tst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AIE23/1_Fizz_Buzz/Fizz_Buzz_Suhai_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_pandas_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Fizz_buzz_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Fizz_Buzz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/02_pandas_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Fizz_Buzz/Fizz_buzz_test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_function1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fizz_buzz_lr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Fizz_Buzz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/06_function1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Fizz_Buzz/fizz_buzz_lr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_function_limitation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rulebased_intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Fizz_Buzz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/06_function_limitation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Fizz_Buzz/rulebased_intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_scripts/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_function1" />
-        <item itemvalue="Python.06_function_limitation" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.02_pandas_study" />
-        <item itemvalue="Python.01_input_tst" />
+        <item itemvalue="Python.Fizz_Buzz_Suhai_1" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.fizz_buzz_lr" />
+        <item itemvalue="Python.Fizz_buzz_test1" />
+        <item itemvalue="Python.rulebased_intro" />
       </list>
     </recent_temporary>
   </component>

@@ -13,7 +13,7 @@ def df(x):
 
 
 x_old = 3.14
-for itr in range(200):
+for itr in range(50):
     x_new = x_old - 0.3 * df(x_old)
     print("df={},  f({})={}".format(df(x_old), x_new, f(x_new)))
     x_old = x_new
@@ -24,3 +24,6 @@ plt.plot(x, x*0)
 plt.plot(0*f(x), f(x))
 plt.plot(x, f(x))
 plt.show()
+
+
+
