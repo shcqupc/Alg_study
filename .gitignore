@@ -1,0 +1,15 @@
+**/*.cvs
+**/*.txt
+**/*.pickle
+**/*.npz
+**/*.zip
+**/*.gz
+**/*.dat
+**/*.pkl
+venv
+*sources/
+*data/
+__pycache__/
+PyKits/*.bat
+Scripts/pip.bat
+*.xmind
