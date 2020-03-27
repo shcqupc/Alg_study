@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-450"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-410"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-420"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-430"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-440"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\mnist-450"

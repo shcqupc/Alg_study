@@ -1,0 +1,36 @@
+import tensorflow as tf
+import numpy as np
+
+a1 = tf.constant(np.ones([4, 4]) * 2, dtype=tf.float64, name="a1")
+a2 = tf.Variable(np.ones([4, 4]), dtype=tf.float64, name="a2")
+a1_X_a2 = tf.multiply(a1, a2, name='a1_X_a2')
+print("a1_X_a2\n", a1_X_a2)
+print('\n------------------------------------')
+a3 = tf.zeros([4, 4], dtype=tf.float64, name="a3")
+a4 = tf.ones([4, 4], dtype=tf.float64, name="a3")
+d3_by_d4 = a3 * a4
+print("d3_by_d4\n", d3_by_d4)
+print('\n--------------matmul----------------------')
+def matmul():
+    a5 = tf.reshape(a3, [8, 2], name="a5")
+    a6 = tf.reshape(a4, [2, 8], name="a6")
+    a5_dot_a6 = tf.matmul(a5, a6, name='a5_dot_a6').numpy()
+    print("a5_dot_a6\n", a5_dot_a6)
+matmul()
+print('\n--------------tensordot----------------------')
+def tensordot():
+    a7 = tf.random.uniform((2, 3), maxval=10, dtype=tf.int64, name="a7")
+    a8 = tf.random.uniform((1, 3), maxval=10, dtype=tf.int64, name="a8")
+    print(a7,a8,sep="\n")
+    a7_dot_a8 = tf.tensordot(a7,a8,name="a7_dot_a8",axes=0).numpy()
+    print("a7_dot_a8\n", a7_dot_a8)
+    print(a7_dot_a8.shape)
+tensordot()
+print('\n--------------concat----------------------')
+a9 = tf.random.uniform([3,3], maxval=10, dtype=tf.int64, name="a9")
+a10 = tf.random.uniform([2,3], maxval=5, dtype=tf.int64, name="a10")
+a11 = tf.random.uniform([3,2], maxval=5, dtype=tf.int64, name="a11")
+a9_c_a10 = tf.concat([a9,a10],axis=0).numpy()
+print(a9_c_a10)
+a9_c_a11 = tf.concat([a9,a11],axis=1).numpy()
+print(a9_c_a11)

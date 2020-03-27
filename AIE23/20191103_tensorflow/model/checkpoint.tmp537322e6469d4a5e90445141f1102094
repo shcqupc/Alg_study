@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-320"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-280"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-290"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-300"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-310"
+all_model_checkpoint_paths: "D:\\BITBUCKET\\ai_course_project_px\\9_tensorflow\\model\\handwriting-320"
